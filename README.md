@@ -120,3 +120,17 @@ The output filename is specified by the `-output` option. To send output to a pi
 ```
 urmap -sam2aln reads.sam -ref hg38.fasta -output reads.aln
 ```
+
+## URMAP support
+
+**Email support**
+
+I provide technical support via email. Send a message to <a mail="robert@drive5.com">robert@drive5.com</a>.
+
+Response time
+I answer most questions same day. If you don't hear from me after a couple of days, maybe your email got spam- or virus-filtered, then you're welcome to send a follow-up message.
+
+Please be considerate
+My software has thousands of users, and on a typical day I get several tech support questions. I'm happy to support the software, but I would appreciate it if you were considerate of my workload, especially if you got the software for free. I am not paid a salary to do this work, and I don't have grant support.
+
+Please make an effort to solve the problem yourself, or at least narrow it down as much as you can. Then, communicate the problem clearly and concisely, but with enough detail that I can understand what's going on. Please keep in mind that my software is used in a wide variety of applications, and I don't know anything about what you're doing unless you tell me.
